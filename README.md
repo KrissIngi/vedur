@@ -10,7 +10,7 @@ Visual studio version 2022 prefered, any version should work.
 # How to setup
 1. Load the project solution into Visual Studio
 2. Build the project and add missing nuget packages, if any.
-3. Run the project
+3. Run the project.
 4. You may need to accept certifications for using HTTPS, accept them all and a Browser Window should launch in the end with the web page.
 
 # Building the Project
@@ -27,7 +27,6 @@ To build a final version of the application/project you will have to publish it,
 
 # Further improvements 
 Create a custom map for mobile experience, and where we can add all the stations to that custom map - instead of using iFrame from Vedur.is.
-
 
 # Things learned
 Vedur.is API is getting old, and could use an update.
